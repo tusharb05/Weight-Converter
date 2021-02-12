@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #222831;
+    color: white
+}
+header {
+    background-color: #ff5722;
+    margin-bottom: 50px;
+}
+header h1 {
+    padding: 10px 0 13px 0;
+    text-align: center;
+}
+.container {
+    width: 60%;
+}
+.container input {
+    margin-bottom: 20px;
+}
+.div {
+    background-color: #ff5722;
+    border-radius: 5px;
+    padding: 10px 0 10px 10px;
+    margin-bottom: 20px;
+}
