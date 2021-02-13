@@ -24,3 +24,14 @@ header h1 {
     padding: 10px 0 10px 10px;
     margin-bottom: 20px;
 }
+
+@media screen and (max-width: 650px) {
+    .container {
+        width: 80%
+    }
+}
+@media screen and (max-width: 450px) {
+    .container {
+        width: 95%;
+    }
+}
